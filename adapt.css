@@ -1,0 +1,65 @@
+@media only screen and (max-width: 500px) {
+    .main {
+        background-image: url(./img/bc1mob.png);
+        background-position: 50%;
+        background-size: 100%;
+      }
+
+      .vse {
+        height: 70vh;
+        background-image: url(./img/bc2mob.png);
+        background-position: 50%;
+        background-size: 100%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }  
+    .instr {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .instr h1 {
+        font-size: 23px;
+    }
+    .instr h4 {
+        font-size: 17px;
+    }
+
+    .skach {
+        background-image: url(./img/bc3mob.png);
+        background-position: 50%;
+        background-size: 100%;
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    .at h1 {
+        font-size: 23px;
+        margin-bottom: 10px;
+    }
+    .desc {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+}
+@media screen and (max-width: 480px){
+    .main {
+        background-image: url(./img/bc1mob.png);
+        background-position: 50%;
+        background-size: 100%;
+      }
+      .vse {
+        height: 60vh;
+        background-image: url(./img/bc2mob.png);
+        background-position: 50%;
+        background-size: 100%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    } 
+    .skach {
+        height: 550px;
+        background-image: url(./img/bc3mob.png);
+        background-position: 50%;
+        background-size: 100%;
+        padding-left: 5rem;
+        padding-right: 5rem;
+    } 
+}

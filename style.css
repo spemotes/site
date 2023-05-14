@@ -1,0 +1,101 @@
+* {
+    font-family: Arial;
+    color: white;
+    text-decoration: none;
+}
+html {
+    background-color: #060305;
+}
+.headline {
+    display: flex;
+    height: 55px;
+    align-items: center;
+    justify-content: center;
+}
+.headline a {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.headline img {
+    width: 40px;
+}
+.main {
+    display: flex;
+    align-items: end;
+    justify-content: right;
+    height: 92.5vh;
+    background-image: url(./img/bc1.png);
+    background-position: 50%;
+    background-size: 220vh;
+  }
+.main h1 {
+    font-size: 100px;
+}
+.vse {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 92vh;
+    background-image: url(./img/bc2.png);
+    background-position: 50%;
+    background-size: 220vh;
+    text-align: center;
+    padding-left: 25rem;
+    padding-right: 25rem;
+}
+.instr {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.instr h1 {
+    margin-bottom: 2rem;
+    font-size: 55px;
+}
+.instr h4 {
+    font-size: 20px;
+}
+.skach {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 92vh;
+    background-image: url(./img/bc3.png);
+    background-position: 50%;
+    background-size: 220vh;
+    text-align: center;
+    padding-left: 25rem;
+    padding-right: 25rem;
+}
+.at h1 {
+    margin-bottom: 2rem;
+}
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: .2rem;
+}
+.links a {
+    width: 50px;
+    margin-right: 1rem;
+}
+.desc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    background-color: #008bf3;
+    background-position: 10%;
+    background-size: 220vh;
+    text-align: center;
+    padding-left: 25rem;
+    padding-right: 25rem;
+}
+.footer-links {
+    margin-left: 2rem;
+}
+.footer-links p {
+    margin-top: .5rem;
+}

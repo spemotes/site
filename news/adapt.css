@@ -1,0 +1,47 @@
+@media only screen and (max-width: 500px) { 
+    .main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 326px;
+        font-size: 4rem;
+        background-image: url(./img/bc1.png);
+        background-position: 50%;
+        background-size: 230%;
+    }
+    .news {
+        padding-left: 5rem;
+        padding-right: 5rem;
+        margin-bottom: 3rem;
+    }
+    .blocks {
+        display: flex;
+        align-items: center;
+        height: 140px;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        background-color: #ffffff00;
+        border-radius: 1.2rem;
+        margin-top: 1rem;
+    }
+    .blocks img {
+        width: 220px;
+        border-radius: 1rem;
+    }
+    .title h2 {
+        font-size: 0;
+        height: 0;
+        width: 0;
+    }
+    .desc {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    .cen {
+        background-color: #141113;
+        border-radius: 2rem;
+        padding: 1rem;
+        padding-top: .3rem;
+        padding-bottom: .3rem;
+    }
+}
