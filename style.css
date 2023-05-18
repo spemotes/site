@@ -6,6 +6,9 @@
 html {
     background-color: #060305;
 }
+a:hover {
+    text-decoration: underline #ff5d00 2px;
+}
 .headline {
     display: flex;
     height: 55px;
