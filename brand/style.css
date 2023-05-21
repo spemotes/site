@@ -6,6 +6,9 @@
 html {
     background-color: #060305;
 }
+a:hover {
+    text-decoration: underline #ff5d00 2px;
+  }
 .headline {
     display: flex;
     height: 55px;
@@ -46,7 +49,7 @@ html {
     background-image: url(./img/bc2.png);
     background-position: 50%;
     background-size: 220vh;
-    height: 1000px;
+    height: 918px;
 }
 .footer-links {
     margin-left: 2rem;
@@ -65,4 +68,39 @@ html {
     text-align: center;
     padding-left: 25rem;
     padding-right: 25rem;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+    padding-top: 15rem;
+    padding-left: 30rem;
+    padding-right: 30rem;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url(https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594f6abf11bb058da52ecb_bg.png);
+    background-size: 10%;
+    width: 250px;
+    height: 250px;
+    padding: 1rem;
+    border-radius: 2rem;
+    padding-bottom: 0.6em;
+    margin: 1rem;
+    border: #74747467 1px solid;
+}
+.card img {
+    width: 170px;
+    height: 170px;
+}
+#duo {
+    background-image: url(https://assets-global.website-files.com/6257adef93867e50d84d30e2/625950f8da1880cda1a94346_bg-w.png);
+}
+#duo a {
+    color: black;
 }
