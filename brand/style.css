@@ -2,6 +2,7 @@
     font-family: Arial;
     color: white;
     text-decoration: none;
+    
 }
 html {
     background-color: #060305;
@@ -32,7 +33,7 @@ a:hover {
     font-size: 4rem;
     background-image: url(./img/bc1.png);
     background-position: 50%;
-    background-size: 220vh;
+    background-size: cover;
 }
 .main h4{
     font-size: 1.5rem;
@@ -48,7 +49,7 @@ a:hover {
 .blackandwhite {
     background-image: url(./img/bc2.png);
     background-position: 50%;
-    background-size: 220vh;
+    background-size: cover;
     height: 918px;
 }
 .footer-links {
