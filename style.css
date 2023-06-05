@@ -31,7 +31,7 @@ a:hover {
     display: flex;
     align-items: end;
     justify-content: right;
-    height: 83.5vh;
+    height: 832px;
     background-image: url(./img/bc1.png);
     background-position: 50%;
   }
@@ -42,7 +42,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 83.5vh;
+    height: 832px;
     background-image: url(./img/bc2.png);
     background-position: 50%;
     text-align: center;
@@ -64,7 +64,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 83.5vh;
+    height: 832px;
     background-image: url(./img/bc3.png);
     background-position: 50%;
     text-align: center;
