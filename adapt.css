@@ -43,17 +43,18 @@
         background-image: url(./img/bc1mob.png);
         background-position: 50%;
         background-size: contain;
+        height: 700px;
       }
       .vse {
-        height: 60vh;
         background-image: url(./img/bc2mob.png);
         background-position: 50%;
-        background-size: 100%;
+        background-size: contain;
         padding-left: 2rem;
         padding-right: 2rem;
+        height: 700px;
       }
       .skach {
-        height: 550px;
+        height: 700px;
         background-image: url(./img/bc3mob.png);
         background-position: 50%;
         background-size: 100%;
