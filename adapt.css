@@ -48,14 +48,16 @@
         height: 60vh;
         background-image: url(./img/bc2mob.png);
         background-position: 50%;
-        background-size: contain;
-    } 
-    .skach {
+        background-size: 100%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
+      .skach {
         height: 550px;
         background-image: url(./img/bc3mob.png);
         background-position: 50%;
-        background-size: contain;
+        background-size: 100%;
         padding-left: 5rem;
         padding-right: 5rem;
-    } 
+      }
 }
