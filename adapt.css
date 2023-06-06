@@ -54,11 +54,11 @@
         height: 700px;
       }
       .skach {
-        height: 700px;
         background-image: url(./img/bc3mob.png);
         background-position: 50%;
         background-size: 100%;
         padding-left: 5rem;
         padding-right: 5rem;
+        height: 700px;
       }
 }
