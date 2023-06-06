@@ -2,14 +2,14 @@
     .main {
         background-image: url(./img/bc1mob.png);
         background-position: 50%;
-        background-size: 100%;
+        background-size: contain;
       }
 
       .vse {
         height: 70vh;
         background-image: url(./img/bc2mob.png);
         background-position: 50%;
-        background-size: 100%;
+        background-size: contain;
         padding-left: 2rem;
         padding-right: 2rem;
     }  
@@ -27,7 +27,7 @@
     .skach {
         background-image: url(./img/bc3mob.png);
         background-position: 50%;
-        background-size: 100%;
+        background-size: contain;
         padding-left: 5rem;
         padding-right: 5rem;
     }
@@ -44,13 +44,13 @@
     .main {
         background-image: url(./img/bc1mob.png);
         background-position: 50%;
-        background-size: 100%;
+        background-size: contain;
       }
       .vse {
         height: 60vh;
         background-image: url(./img/bc2mob.png);
         background-position: 50%;
-        background-size: 100%;
+        background-size: contain;
         padding-left: 2rem;
         padding-right: 2rem;
     } 
@@ -58,7 +58,7 @@
         height: 550px;
         background-image: url(./img/bc3mob.png);
         background-position: 50%;
-        background-size: 100%;
+        background-size: contain;
         padding-left: 5rem;
         padding-right: 5rem;
     } 
