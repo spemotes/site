@@ -1,0 +1,66 @@
+@media only screen and (max-width: 500px) {
+    .main {
+        background-image: url(./img/bc1.png);
+        background-position: 50%;
+        background-size: 300%;
+        height: 400px;
+      }
+      .desk {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        padding-left: 3rem;
+        padding-right: 3rem;
+        margin-top: 15rem;
+      }
+      .desk h4 {
+        font-size: 1.2rem;
+      }
+      .blackandwhite {
+        background-image: url(./img/bc2.png);
+        background-position: 50%;
+        background-size: cover;
+        height: 550px;
+      }
+      .cards {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 400px;
+        padding-top: 7rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+      .card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        background-image: url(https://assets-global.website-files.com/6257adef93867e50d84d30e2/62594f6abf11bb058da52ecb_bg.png);
+        background-size: 10%;
+        width: 100px;
+        height: 100px;
+        padding: 1rem;
+        padding-bottom: 0rem;
+        border-radius: 2rem;
+        padding-bottom: 0.6em;
+        margin: 1rem;
+        border: #0006 1px solid;
+      }
+      .card img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: .5rem;
+      }
+      .card a {
+        font-size: 0rem;
+      }
+      .desc {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    .full img {
+        margin-top: 5rem;
+    }
+      }
